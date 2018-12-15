@@ -1,6 +1,25 @@
 #EXTM3U
-#EXTINF:-1,RO: HBO 2
-http://213.32.62.68:80/iptvking/AvVKsDolnV/7635
-#EXTINF:-1,RO: HBO 3 HD
-http://213.32.62.68:80/iptvking/AvVKsDolnV/2897
-#EXTINF:-1,RO: HBO Romania
+#EXTINF:-1,RO: Antena 1
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6016
+#EXTINF:-1,RO: Antena 3
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6015
+#EXTINF:-1,RO: AXN Black
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6003
+#EXTINF:-1,RO: AXN White
+#EXTINF:-1,RO: Cinemax 1
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6009
+#EXTINF:-1,RO: Cinemax 2
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6008
+#EXTINF:-1,RO: Digi 24
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6013
+#EXTINF:-1,RO: Digi Animal World
+http://maxtvv.abdou123.com:8080/Mustapha/2018/5983
+#EXTINF:-1,RO: Digi Film
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6002
+#EXTINF:-1,RO: Digi Life
+http://maxtvv.abdou123.com:8080/Mustapha/2018/6001
+#EXTINF:-1,RO: Digi Sport 1
+http://maxtvv.abdou123.com:8080/Mustapha/2018/5979
+#EXTINF:-1,RO: Digi Sport 2
+http://maxtvv.abdou123.com:8080/Mustapha/2018/5978
+#EXTINF:-1,RO: Digi Sport 3
